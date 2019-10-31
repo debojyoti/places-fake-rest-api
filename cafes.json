@@ -21,5 +21,20 @@
     }, {
         "name": "Philz Coffee",
         "location_id": "urhw3837ehalod7w02b7835"
+    }, {
+        "name": "The Alma Gathering Cafe",
+        "location_id": "mjdhgetr4pojfyts22fzfsh"
+    }, {
+        "name": "Lakeland Memory Cafe",
+        "location_id": "jahgde7wgdiau8ewsahgosd"
+    }, {
+        "name": "Baron Memory Cafe",
+        "location_id": "kjk234g4gcvfx8usg1l33pi"
+    }, {
+        "name": "Lakeshores Memory Cafe",
+        "location_id": "mjdhgetr4pojfyts22fzfsh"
+    }, {
+        "name": "Monarch Memory Cafe",
+        "location_id": "jahgde7wgdiau8ewsahgosd"
     }]
 }
